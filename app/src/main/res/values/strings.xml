@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+    <string name="txttitulo">Proyecto Final</string>
+    <string name="hmatricula">"Ingrese su matricula "</string>
+    <string name="hnombre">Ingrese su nombre</string>
+    <string name="hcorreo">Ingrese su correo</string>
+    <string name="hcalificacion">Calificacion final</string>
+    <string name="bgrabar">Grabar</string>
+    <string name="dnombre">Nombre</string>
+    <string name="bmatricula">Matricula</string>
+    <string name="bnombre">Nombre</string>
+    <string name="dcorreo">Correo</string>
+    <string name="bcalificacion">Calificacion</string>
+    <string name="logo1">imagen1</string>
+    <string name="logo2">imagen2</string>
+</resources>
